@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    display: grid;
+    grid-template-areas: 
+        "header" 
+        "main"
+        "footer";
+    grid-template-rows: 150px 1fr 100px;
+    padding-right: 21px;
+}
+
+header{
+    grid-template-areas: header;
+    background-color: yellowgreen;
+}
+
+main{
+    grid-template-areas: main;
+    background-color: brown;
+}
+
+footer{
+    grid-template-areas: footer;
+    background-color: cadetblue;
+}

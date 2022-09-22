@@ -1,7 +1,12 @@
 .usuario{
-    position: absolute;
-    width: 80px;
-    height: 80px;
-    padding-left: 1867px;
-    padding-top: 19px;;
+   display: flex;
+   justify-content: right;
+    top: 19px;
 }
+
+.usuario__vector{
+    border: 2px solid;
+    border-radius: 50%;
+    background-color: black;
+}
+

@@ -5,8 +5,7 @@ body{
         "header" 
         "main"
         "footer";
-    grid-template-rows: 150px 1fr 100px;
-    padding-right: 21px;
+    grid-template-rows: 90px 3fr 50px;
 }
 
 header{
@@ -16,7 +15,7 @@ header{
 
 main{
     grid-template-areas: main;
-    background-color: brown;
+    
 }
 
 footer{

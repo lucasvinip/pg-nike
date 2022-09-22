@@ -1,0 +1,14 @@
+.tenis{
+    display: flex;
+    flex-direction: row;
+    width: 657.57px;
+    height: 369.2px;
+    top: 521.6px;
+    left: 203.52px;
+}
+
+.tenis__nike{
+    border: 2px solid red;
+    border-radius: 50%;
+    
+}

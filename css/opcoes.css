@@ -1,5 +1,12 @@
 .opcoes{
     display: flex;
-    flex-direction: column;
-    flex
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 2rem;
+    font-family: 'Inter', sans-serif;
+    gap: 3rem;
+}
+
+.opcoes-icon{
+    display: flex;
 }

@@ -10,3 +10,11 @@
 .opcoes-icon{
     display: flex;
 }
+
+.seta{
+    color: black;
+}
+
+.seta:hover{
+    color: red;
+}

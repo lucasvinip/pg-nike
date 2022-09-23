@@ -1,6 +1,5 @@
 .tenis{
-    display: flex;
-    flex-direction: row;
+    position: absolute;
     width: 657.57px;
     height: 369.2px;
     top: 521.6px;

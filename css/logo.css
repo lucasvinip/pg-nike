@@ -1,6 +1,7 @@
 .logo{
-    position: absolute;
     width: 144.15px;
     height: 159px;
     padding-left: 3rem;
+    padding-top: 0%;
+    background-color: black;
 }

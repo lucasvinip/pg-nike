@@ -1,0 +1,35 @@
+.descricao{
+    grid-area: descricao;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.descricao__jordan{
+    display: grid;
+    place-items: center;
+    transform: translate(-110px, -700px);
+    font-size: 2rem;
+    letter-spacing: .34em;
+    font-weight: 400px;
+}
+
+.descricao__air-max{
+    display: grid;
+    place-items: center;
+    width: 600px;
+    transform: translate(0px, -100px);
+    font-size: 5rem;
+    letter-spacing: .34em;
+}
+
+.descricao__paragrafo{
+    display: grid;
+    place-items: center;
+    width: 600px;
+    transform: translate(330px, -50px);
+    font-size: 2rem;
+    color: #585858;
+    letter-spacing: 0.05em;
+    font-weight: 400;
+}

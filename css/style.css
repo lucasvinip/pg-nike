@@ -17,6 +17,10 @@ header{
 
 main{
     grid-template-areas: main;
+    display: grid;
+    grid-template-areas: "tenis descricao";
+    grid-template-columns: 1fr 2fr;
+    padding-left: 100px;
 }
 
 footer{

@@ -3,22 +3,25 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: baseline;
 }
 
 .descricao__jordan{
     display: grid;
     place-items: center;
-    transform: translate(-110px, -700px);
+    transform: translate(21rem, -2rem);
     font-size: 2rem;
     letter-spacing: .34em;
-    font-weight: 400px;
+    font-weight: 275px;
+    line-height: 29px;
+    font-size: 24px;
 }
 
 .descricao__air-max{
     display: grid;
     place-items: center;
     width: 600px;
-    transform: translate(0px, -100px);
+    transform: translate(17rem, 2rem);
     font-size: 5rem;
     letter-spacing: .34em;
 }
@@ -27,9 +30,16 @@
     display: grid;
     place-items: center;
     width: 600px;
-    transform: translate(330px, -50px);
+    transform: translate(21rem, 2rem);
     font-size: 2rem;
     color: #585858;
     letter-spacing: 0.05em;
-    font-weight: 400;
+    font-weight: 275px;
+}
+
+.descricao__button{
+    display: grid;
+    place-items: center;
+    width: 219px;
+    transform: translate(21rem, );
 }
